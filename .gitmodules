@@ -1,3 +1,6 @@
 [submodule "BinTree"]
 	path = BinTree
 	url = https://github.com/SeveraTheDuck/BinTree
+[submodule "stack"]
+	path = stack
+	url = https://github.com/SeveraTheDuck/stack

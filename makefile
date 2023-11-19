@@ -4,7 +4,7 @@ FLAGS=-D_DEBUG -fsanitize=address,alignment -ggdb3 -std=c++17 -O0 -Wall -Wextra 
 BIN_DIR:=object/
 SOURCE_DIR=source/
 
-
+# recursive makefile
 
 .PHONY: makedirs clean doxygen
 
