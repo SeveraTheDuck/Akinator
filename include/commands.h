@@ -7,10 +7,8 @@
 #include <assert.h>
 #include <ctype.h>
 #include <string.h>
-#include <SDL.h>
 
 const size_t OBJECT_NAME_MAX_LEN    = 50;
-const size_t DESCRIPTION_MAX_LEN    = 1000;
 const size_t NEW_DIFFERENCE_MAX_LEN = 200;
 
 enum AnswerIndicator

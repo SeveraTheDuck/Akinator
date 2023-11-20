@@ -273,6 +273,7 @@ FindObject (      ANA_BinTree_node* const node,
     return found_object;
 }
 
+// DOESN'T WORK!!!
 void
 CompareObjects (const ANA_BinTree* const tree)
 {
@@ -345,10 +346,4 @@ CompareObjects (const ANA_BinTree* const tree)
 //         snprintf (similarities + similarities_index, "%s",
 //                   )
 //     }
-// }
-
-// void
-// ShowImage ()
-// {
-//
 // }
